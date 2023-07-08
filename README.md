@@ -4,7 +4,8 @@
 
 This project aims to ease several transactions into minimal transactions to make transactions more accessible and efficient. The underlying data structure used for the implementation of the project is heaps that can be visualized through a directed graph.
 
-[proj_img.jpg](https://github.com/Ausaf-10/Minimize-Cash-Flow/blob/266ccc7ffb73d809e2f20e89ff318f58424fec1e/proj_img.jpg)
+![image](https://github.com/Ausaf-10/Minimize-Cash-Flow/assets/102360335/b25d64bd-acf1-4881-be3b-f7a097c223dc)
+
 
 
 **Detailed Algorithm:**
